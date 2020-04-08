@@ -9,5 +9,5 @@ function read2()
 {
     let h1=document.getElementById("heading1");
     console.log(h1);
-    console.log(h1.fontsize);
+    console.log(h1.style.fontSize);
 }
